@@ -3,6 +3,10 @@ Created by Epishade
 Credit to AfterLemon for his In-Line Send Sleep Function
 */
 
+/*
+Modificado por Pedro Augusto pedroabs1@gmail.com/
+*/
+
 #NoEnv
 #SingleInstance Force
 SendMode Input
